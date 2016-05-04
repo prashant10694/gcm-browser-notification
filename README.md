@@ -1,7 +1,6 @@
 # gcm-browser-notification
 
-this project contains two files 
 
-1 for configuration files 
+gcm_browser_notification_nodejs.conf is supervisor file browser notification 
 
-2 is node.js file for sending notifications through gcm 
+gcm_browser_notification.js for sending notifications through gcm 
